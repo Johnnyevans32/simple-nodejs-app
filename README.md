@@ -14,7 +14,7 @@ then
 then run 
 * `npm run watch` next
 contributors:
-Eburu Evans
-Zenior man
+1)Eburu Evans
+2)Zenior man
 
 enjoy!! 🪐🥂
